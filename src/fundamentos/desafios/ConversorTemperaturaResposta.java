@@ -10,7 +10,7 @@ public class ConversorTemperaturaResposta {
 		double fahrenheit = 86;
 		double celsius = (fahrenheit - ajuste)*fator;
 		
-		System.out.println("O resultado é " + celsius + " C");
+		System.out.println("O resultado é " + celsius + "C");
 
 	}
 
